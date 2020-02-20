@@ -1,0 +1,2 @@
+my.demo.name=My Config Server Demo- Prod
+my.demo.type=Learn in Prod

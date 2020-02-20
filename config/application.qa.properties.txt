@@ -1,0 +1,2 @@
+my.demo.name=My Config Server Demo- Dev
+my.demo.type=Learn in Dev
